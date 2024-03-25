@@ -11,17 +11,6 @@ The objective of this project is to deepen understanding of Docker Compose by cr
 - Docker and Docker Compose installed on your computer.
 - Basic knowledge of YAML, PHP, SQL, and command-line operations.
 
-## Directory Structure
-
-lamp-project/
-│
-├── mysql/ # MySQL data persistence directory
-├── www/ # PHP files directory
-├── docker-compose.yml # Docker Compose file
-├── Dockerfile # Custom Dockerfile
-└── 000-default.conf # Apache virtual host configuration file
-
-
 ## Steps to Setup
 
 1. **Environment Setup and Docker Compose File**

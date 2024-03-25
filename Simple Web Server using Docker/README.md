@@ -15,14 +15,14 @@ Before getting started, ensure you have the following installed on your machine:
 
 ### Clone the Repository
 
-```sh
+```
 git clone https://github.com/Neil-Duraiswami/CSC_581_Brigu_Celly.git
-
+```
 ## Navigate to Project Directory
 
-```sh
+```
 cd CSC_581_Brigu_Celly/simple-web-server
-
+```
 ## Set Up Your Project
 
 -Create an index.html file with your HTML content in the html directory.
@@ -30,18 +30,18 @@ cd CSC_581_Brigu_Celly/simple-web-server
 
 ## Start the Web Server
 
-```sh
+```
 docker-compose up -d
-
+```
 ## Access the Web Server
 
 Open your web browser and go to http://localhost:8081 to view the served HTML page.
 
 ## Stop the Web Server
 
-```sh
+```
 docker-compose down
-
+```
 ## File Structure
 
 - `html/`: Directory containing the HTML files served by the web server.

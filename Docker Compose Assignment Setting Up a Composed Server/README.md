@@ -6,13 +6,11 @@ This Directory contains the setup for a composed server environment using Docker
 
 Before getting started, ensure you have the following installed on your machine:
 - Docker
-- Docker Compose
 
 Verify the installation by running the following commands in your terminal:
 
 ```bash
 docker --version
-docker-compose --version
 ```
 
 ## Usage

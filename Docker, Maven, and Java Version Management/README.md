@@ -45,7 +45,7 @@ After testing, clean up Docker containers and images:
 
 ##Additional Notes
 
-- Ensure Docker and Docker Compose are installed on your machine.
+- First ensure Docker and Docker Compose are installed on your machine.
 - This project demonstrates the usage of Maven profiles to manage different Java versions.
 - The Dockerfile utilizes multi-stage builds to optimize Docker images and reduce size.
 - Feel free to modify the Java source code or Dockerfile to extend or customize the application.

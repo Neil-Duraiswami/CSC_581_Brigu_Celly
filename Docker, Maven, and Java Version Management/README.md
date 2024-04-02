@@ -43,7 +43,7 @@ After testing, clean up Docker containers and images:
    docker rmi helloworld-java8 helloworld-java11 helloworld-java17
    ```
 
-##Additional Notes
+## Additional Notes
 
 - First ensure Docker and Docker Compose are installed on your machine.
 - This project demonstrates the usage of Maven profiles to manage different Java versions.
